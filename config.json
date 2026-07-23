@@ -1,0 +1,41 @@
+{
+    "informacion": {
+        "nombre_negocio": "Roygarcia Sellos de Goma",
+        "titulo_principal": "Empresa al servicio de Empresas",
+        "descripcion": "Realizamos Sellos de de goma, y Trabajos de Imprenta en general,  atencion virtual , hacemos envios a oficinas, negocios y provincias ",
+        "whatsapp": "69240891",
+        "catalogo": "",
+        "facebook": "https://www.facebook.com/imprentaroygarcia/",
+        "instagram": "https://www.instagram.com/roy9101970/",
+        "tiktok": "https://www.tiktok.com/@roygalan340",
+        "pagina_web": "imprentagarcia.webnode.es",
+        "google_maps": "https://maps.app.goo.gl/zvSF9YDHtZk25ULe6?g_st=awb",
+        "correo": "roygalan340@gmail.com",
+        "logo": "handy.jpg"
+    },
+    "listas_precios": [],
+    "galeria_trabajos": [],
+    "carrusel_principal": [
+        "banderolas.png",
+        "trabajos.png",
+        "s842fuccio.jpg",
+        "billeterored.jpg",
+        "letrero.jpg",
+        "handy.jpg"
+    ],
+    "botones": [
+        {
+            "texto": "TARJETAS PERSONALES",
+            "icono": "@",
+            "url": "https://photos.app.goo.gl/5RqQG5XWw5FPHHPj7",
+            "visible": true
+        },
+        {
+            "texto": "SELLOS DE GOMA",
+            "icono": "@",
+            "url": "https://imprentagarcia.webnode.es/sellos-de-goma/",
+            "visible": true
+        }
+    ],
+    "plantilla": "Moderna"
+}
